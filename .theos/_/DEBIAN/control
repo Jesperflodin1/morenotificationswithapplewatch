@@ -1,0 +1,10 @@
+Package: fi.flodin.morenotificationswithapplewatch
+Name: MoreNotificationsWithAppleWatch
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Jesper Flodin <jesper@flodin.fi>
+Author: Jesper Flodin <jesper@flodin.fi>
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 72
