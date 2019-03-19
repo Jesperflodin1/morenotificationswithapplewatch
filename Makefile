@@ -6,8 +6,9 @@ ARCHS = arm64
 DEBUG = 1
 FINALPACKAGE = 0
 
-TWEAK_NAME = MoreNotificationsWithAppleWatch
-MoreNotificationsWithAppleWatch_FILES = Tweak.xm
+TWEAK_NAME = WatchDotsFix
+WatchDotsFix_FILES = Tweak.xm
+WatchDotsFix_CFLAGS += -fobjc-arc
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 

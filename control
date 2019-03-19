@@ -1,9 +1,9 @@
-Package: fi.flodin.morenotificationswithapplewatch
-Name: MoreNotificationsWithAppleWatch
+Package: fi.flodin.watchdotsfix
+Name: WatchDotsFix
 Depends: mobilesubstrate
 Version: 0.0.1
 Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
+Description: Receive notifications on Apple Watch while using Dots
 Maintainer: Jesper Flodin <jesper@flodin.fi>
 Author: Jesper Flodin <jesper@flodin.fi>
 Section: Tweaks
